@@ -8,5 +8,9 @@ The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-
 
    ![No  of  birdstrikes in each state](https://github.com/mahima90/Tableau-Bird-Strikes-Visualization/assets/123813853/7693d1e5-8112-4170-b918-1db346de28c9)
 
+2. No of Bird Strike
+
+   ![No  of Bird struck](https://github.com/mahima90/Tableau-Bird-Strikes-Visualization/assets/123813853/bfe3ff3f-6a56-4593-a0fb-587c8a115908)
+
 
 
