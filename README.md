@@ -4,6 +4,9 @@ A bird strike is strictly defined as a collision between a bird and an aircraft 
 
 The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-2011. The objective of the project is to tell visual story using the data and find meanungful insights using a Tableau Tool.
 
+1. No of Bird Strike Each State
+
+   ![No  of  birdstrikes in each state](https://github.com/mahima90/Tableau-Bird-Strikes-Visualization/assets/123813853/7693d1e5-8112-4170-b918-1db346de28c9)
 
 
 
