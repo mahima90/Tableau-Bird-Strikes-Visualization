@@ -4,3 +4,5 @@ A bird strike is strictly defined as a collision between a bird and an aircraft 
 
 The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-2011. The objective of the project is to tell visual story using the data and find meanungful insights using a Tableau Tool.
 
+
+
