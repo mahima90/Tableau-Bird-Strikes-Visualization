@@ -12,5 +12,11 @@ The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-
 
    ![No  of Bird struck](https://github.com/mahima90/Tableau-Bird-Strikes-Visualization/assets/123813853/bfe3ff3f-6a56-4593-a0fb-587c8a115908)
 
+3. Strike Occur
+
+![strikes occur](https://github.com/mahima90/Tableau-Bird-Strikes-Visualization/assets/123813853/0558c4d8-7e0d-4c53-b6a2-3789bc3e3841)
+
+
+
 
 
